@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">mobile_cw</string>
+    <string name="loginbtn">Login</string>
+    <string name="click_to_register">click_to_Register</string>
+    <string name="login">Welcome</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="registerlbl">REGISTER</string>
+    <string name="registerbtn">Submit</string>
+    <string name="click_to_login">Click To Login</string>
+    <string name="btn_book_detail">Book Detail</string>
+    <string name="btn_shop_detail">Shop Detail</string>
+    <string name="btn_orders_detail">Orders Detail</string>
+    <string name="AdminOrderVeiwPage">Order Detail</string>
+    <string name="adminShopDetailVeiwPage">Shop Detail</string>
+    <string name="adminBookDataVeiwPage">Book Detail</string>
+    <string name="loginPage">Book Shop</string>
+    <string name="userBookViewPage">Book Detail</string>
+    <string name="userRegisterPage">Register Page</string>
+    <string name="adminDashboardPage">DashBoard</string>
+</resources>

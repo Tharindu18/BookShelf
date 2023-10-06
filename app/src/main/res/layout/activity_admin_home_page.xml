@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".AdminHomePage"
+    android:background="@drawable/back">
+
+    <Button
+        android:id="@+id/btnBookDetail"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_book_detail" />
+
+    <Button
+        android:id="@+id/btnShopDetail"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_shop_detail"
+        android:layout_marginTop="20dp"/>
+
+    <Button
+        android:id="@+id/btnOrderDetail"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_orders_detail"
+        android:layout_marginTop="20dp" />
+
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="logout"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="100dp"/>
+
+</LinearLayout>
